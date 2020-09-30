@@ -1,1 +1,1 @@
-web:gunicorn djangotaskmateapp.wsgi--log-file--
+web:gunicorn djangotaskmateapp.wsgi --log-file-
